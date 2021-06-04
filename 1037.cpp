@@ -22,8 +22,7 @@ int main()
     }
     else
     {
-        (x > 75 && x <= 100)
-            printf("fora do intervalo\n");
+        printf("fora do intervalo\n");
     }
 
     return 0;
